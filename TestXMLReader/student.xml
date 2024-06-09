@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<company>
+    <student>
+        <id>1</id>
+        <name>Nusrat Jahan</name>
+        <position>Student of Software Engineer</position>
+        <address>Mirpur, Dhaka</address>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Mostofa Rezvi</name>
+        <position>Student of Software Engineer</position>
+        <address>Azimpur, Dhaka</address>
+    </student>
+</company>
+
