@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><company>
+    <employee>
+        <id>1</id>
+        <name>Nusrat Jahan</name>
+        <position>Software Engineer</position>
+        <salary>30000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Subaita Khanom</name>
+        <position>Software Engineer</position>
+        <salary>50000</salary>
+    </employee>
+</company>
