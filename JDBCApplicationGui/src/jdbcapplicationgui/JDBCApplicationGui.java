@@ -14,7 +14,7 @@ public class JDBCApplicationGui {
     private static Connection connect = null;
     private static String url = "jdbc:mysql://localhost:3306/test_jdbc";
     private static String user = "root";
-    private static String Password = "1234";
+    private static String password = "1234";
     private static String driver = "com.mysql.cj.jdbc.Driver";
     
     
@@ -27,7 +27,7 @@ public class JDBCApplicationGui {
         try {
             Class.forName(driver);
             
-            connect = DriverManager.getConnection(url, url, Password);
+            connect = DriverManager.getConnection(url, user, password);
             
             String sql = "select * from student";
             
